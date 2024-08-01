@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ScannerClass" />
+    <module name="Java primul curs" />
+    <option name="PROGRAM_PARAMETERS" value="25 Voicu Albastru" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
